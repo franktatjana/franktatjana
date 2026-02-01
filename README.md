@@ -18,7 +18,7 @@ Architecture | Reference Models | Enablement | Knowledge Systems | Strategic Pla
 - Architecture & Enablement: Enterprise patterns, reusable business artifacts
 - AI & Productivity: Tool frameworks, agent definitions, RAG use cases
 - Knowledge Design: Searchable structures, templates, standards
-- 
+  
 ## Selected projects
 - Unplaned is a lightweight focus and task decomposition tool
 - Unpolished 
