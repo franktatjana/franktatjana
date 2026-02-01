@@ -1,16 +1,25 @@
-## Hi there 👋
+# Tatjana Frank
 
-<!--
-**franktatjana/franktatjana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Solution Architect focused on building structured, reusable systems for complex work.
 
-Here are some ideas to get you started:
+I design frameworks, playbooks, and AI-assisted tooling that turn fragmented knowledge into scalable operating models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+I work on high-impact technical and strategic problems, including:
+
+- Enterprise solution architecture patterns and reference models
+- Customer value excellence and enablement frameworks
+- Scalable knowledge management practices
+- Outcome-based engagement and OKR alignment
+  
+## Tech & Skills
+Architecture | Reference Models | Enablement | Knowledge Systems | Strategic Planning
+
+- Architecture & Enablement: Enterprise patterns, reusable business artifacts
+- AI & Productivity: Tool frameworks, agent definitions, RAG use cases
+- Knowledge Design: Searchable structures, templates, standards
+- 
+## Selected projects
+- Unplaned is a lightweight focus and task decomposition tool
+- Unpolished 
+- AI agent concepts for planning, knowledge, and governance
