@@ -1,25 +1,27 @@
 # Tatjana Frank
 
-Solution Architect focused on building structured, reusable systems for complex work.
+I design systems for how knowledge gets captured, structured, and made useful at scale, working at the intersection of enterprise architecture, AI tooling, and operational thinking that turns fragmented expertise into something other people can actually build on.
 
-I design frameworks, playbooks, and AI-assisted tooling that turn fragmented knowledge into scalable operating models.
+Most of what I create starts with a question about why things keep getting lost: why the same decisions get made twice, why good frameworks don't travel, why the gap between strategy and execution is always wider than anyone planned for. The answer is usually a structural problem, and the solution is usually a better model not more processes.
 
-## What I Do
-I work on high-impact technical and strategic problems, including:
+My current focus is on agentic systems as a design medium: how multi-agent architectures can enforce discipline that humans agree to in principle but abandon under pressure, and how governance structures need to evolve when the agents executing them can learn and adapt.
 
-- Enterprise solution architecture patterns and reference models
-- Customer value excellence and enablement frameworks
-- Scalable knowledge management practices
-- Outcome-based engagement and OKR alignment
-  
-## Tech & Skills
-Architecture | Reference Models | Enablement | Knowledge Systems | Strategic Planning
+## What I think about
 
-- Architecture & Enablement: Enterprise patterns, reusable business artifacts
-- AI & Productivity: Tool frameworks, agent definitions, RAG use cases
-- Knowledge Design: Searchable structures, templates, standards
-  
-## Selected projects
-- Unplaned is a lightweight focus and task decomposition tool
-- Unpolished 
-- AI agent concepts for planning, knowledge, and governance
+> Good structure — in thinking, learning, working, communicating, sharing — is a skeleton, not a corset. It holds everything together so you can move freely.
+
+- Knowledge architecture and how expertise survives organisational change
+- Multi-agent governance and the discipline gap between strategy and execution
+- Reusable frameworks that travel across teams, contexts, and time
+- The structural reasons why good ideas don't propagate
+- Agentic systems as enforcers of decisions humans make but don't keep
+- Enterprise patterns for turning fragmented expertise into operating models
+
+
+## What lives here
+
+Conceptual frameworks and architectural patterns for enterprise knowledge systems, agent governance models, and the foundational thinking behind tools I build elsewhere. If you're looking for running code, you're one tab away.
+
+## Background
+
+Solution Architect with a focus on Security and Observability across enterprise environments, working across EMEA on the kind of deals and transformations where the technical and the strategic are inseparable and where the real work is getting complex knowledge to move reliably between people, teams, and systems.
